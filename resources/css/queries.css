@@ -1,3 +1,4 @@
+ 
 /* big tablets range to 1200px*/
 
 @media only screen and (max-width: 1200px) {
@@ -8,6 +9,7 @@
     .row { padding: 0 2%;}
 }
 /* small tablets to big tablet from 767 to 1023*/
+
 @media only screen and (max-width: 1023px) {
     body { font-size: 18px;}
     section { padding: 60px 0;}
@@ -34,6 +36,7 @@
         margin-left: 0%;
     }
 }
+
 /* small phone to small tablets: from 481 to 767*/
 @media only screen and (max-width: 767px) {
     
